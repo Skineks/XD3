@@ -1,0 +1,3 @@
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\--master\Текстовый редактор\Debug\Текстовый редактор.vcxproj.AssemblyReference.cache
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\--master\Текстовый редактор\Debug\Текстовыйредактор.MyForm.resources
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\--master\Текстовый редактор\Debug\Текстовый редактор.vcxproj.GenerateResource.cache
